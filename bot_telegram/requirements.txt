@@ -1,0 +1,5 @@
+aiogram==2.13
+aiohttp==3.7.4
+asgiref==3.3.4
+python-dotenv==0.17.1
+psycopg2-2.8.6
